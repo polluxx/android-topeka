@@ -68,7 +68,6 @@ class AvatarView @JvmOverloads constructor(
 
     /**
      * Set the image for this avatar. Will be used to create a round version of this avatar.
-
      * @param resId The image's resource id.
      */
     @SuppressLint("NewApi")
